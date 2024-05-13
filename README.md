@@ -57,6 +57,7 @@ savefile = save file (*.png, *.pdf, *.svg)
 TB_file = TBtools file
 
 #TBtools的GO聚类结果文件
+![image](https://github.com/lkiko/GeneClear/assets/57740432/9496f815-8688-4b7c-bed6-b44694b14b98)
 
 Class_dic = Biological process:#0095d9,Molecular function:#f39800,Cellular component:#d7003a
 
