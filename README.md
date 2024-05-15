@@ -1,5 +1,7 @@
 # GeneClear
 
+## At present there is no detailed manual for this application, you will simply have to play around and see what happens.
+
 ## 使用方法 
 
 下载GeneClear-0.0.0-py3-none-any.whl文件到本地
