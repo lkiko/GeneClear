@@ -33,6 +33,7 @@ options:
   -vgo VISUALIZATION_GO 
   
 Visualization_GO 
+  -pf PRIMER_FINDER     Primer finder
                         
 
 使用方法详见CSDN或知乎https://zhuanlan.zhihu.com/p/660795982
